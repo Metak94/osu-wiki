@@ -54,14 +54,30 @@ The osu! Cup Master 3: osu!catch edition Tournament is run by various osu! commu
 - [Discord server](https://discord.gg/Y9MKD8m)
 - [Twitter](https://twitter.com/CupOsu)
 
----
-<!--
+
 ## Participants
 
-|  | Team name| Members |
+| Team image | Team name | Members |
 | :-: | :-: | :-- |
+|  | Acelga | ![][flag_CL] [eldnl](https://osu.ppy.sh/users/285756), ![][flag_CL] [Aryssiel](https://osu.ppy.sh/users/2389481), ![][flag_CL] [NachoL](https://osu.ppy.sh/users/1250096) |
+|  | Nozomu is the greatest | ![][flag_PL] [Phob](https://osu.ppy.sh/users/6069462), ![][flag_Pl] [Mniam](https://osu.ppy.sh/users/6050530), ![][flag_PL] [Pjetras88](https://osu.ppy.sh/users/10310843), ![][flag_PL] [Verti](https://osu.ppy.sh/users/10674528) |
+|  | Los Choripondios | ![][flag_CL] [alluya69](https://osu.ppy.sh/users/2212951), ![][flag_CL] [-Kotaru-](https://osu.ppy.sh/users/9131357), ![][flag_CL] [-Naroh](https://osu.ppy.sh/users/9087831) |
+|  | 115 | ![][flag_ES] [Dogma](https://osu.ppy.sh/users/4175333), ![][flag_DE] [bro gamer NR1](https://osu.ppy.sh/users/9573527), ![][flag_JP] [noob desu](https://osu.ppy.sh/users/4808804) |
+|  | Bjirr Squad | ![][flag_ID] [Honkenway](https://osu.ppy.sh/users/11582543), ![][flag_ID] [Chiya--](https://osu.ppy.sh/users/7934854), ![][flag_ID] [ZYX_GAME](https://osu.ppy.sh/users/3770612), ![][flag_ID] [Zephirine](https://osu.ppy.sh/users/9629190) |
+|  | Iaffi | ![][flag_CL] [Lyna Paulina](https://osu.ppy.sh/users/10434422), ![][flag_HN] [- AnGel](https://osu.ppy.sh/users/12931440), ![][flag_HN] [[-Cris-]](https://osu.ppy.sh/users/14599677) |
+|  | wwwww | ![][flag_AR] [-Story-](https://osu.ppy.sh/users/8172283), ![][flag_AU] [Beerus](https://osu.ppy.sh/users/5529199), ![][flag_GB] [Matt_H](https://osu.ppy.sh/users/4067115) |
+|  | KNRS | ![][flag_FR] [Noctalium](https://osu.ppy.sh/users/6488167), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Shyeart](https://osu.ppy.sh/users/2022144), ![][flag_FR] [Rougoku](https://osu.ppy.sh/users/6900166)|
+|  | Futa Lovers | ![][flag_BR] [BeyondArea](https://osu.ppy.sh/users/8642224), ![][flag_BR] [S a y u n](https://osu.ppy.sh/users/3770603), ![][flag_BR] [Endou-](https://osu.ppy.sh/users/10792711), ![][flag_BR] [Hanik](https://osu.ppy.sh/users/4533507) |
+|  | Smukur es colombiano | ![][flag_CO] [Titan-](https://osu.ppy.sh/users/7855767), ![][flag_CO] [Zyonii](https://osu.ppy.sh/users/9519851), ![][flag_MX] [Cxlucha](https://osu.ppy.sh/users/5063961), ![][flag_PE] [-Boltic-](https://osu.ppy.sh/users/5297904) |
+|  | IZAYOI XXX is the captain | ![][flag_TW] [Timewasdealsea](https://osu.ppy.sh/users/8682905), ![][flag_TW] [IZAYOI XXX](https://osu.ppy.sh/users/3538446), ![][flag_TW] [Psc_IceRain](https://osu.ppy.sh/users/3359485), ![][flag_TW] [qq11123334](https://osu.ppy.sh/users/11807319) |
+|  | QT DOKU | ![][flag_JP] [LieLoom](https://osu.ppy.sh/users/4892798), ![][flag_HK] [Novoids](https://osu.ppy.sh/users/5163523), ![][flag_ID] [LeWind](https://osu.ppy.sh/users/9718235), ![][flag_RU] [Kitsunlvy](https://osu.ppy.sh/users/7055384) |
+|  | :-: | :-- |
+|  | :-: | :-- |
+|  | :-: | :-- |
+|  | :-: | :-- |
 
-
+---
+<!--
 ## Podium
 
 This competition has come to an end and resulted in the following podium:
@@ -158,5 +174,19 @@ will be Low Seed, to end the Unseed teams.
 [flag_AR]: /wiki/shared/flag/AR.gif
 [flag_UY]: /wiki/shared/flag/UY.gif
 [flag_GB]: /wiki/shared/flag/GB.gif
+[flag_PL]: /wiki/shared/flag/PL.gif
+[flag_ES]: /wiki/shared/flag/ES.gif
+[flag_DE]: /wiki/shared/flag/DE.gif
+[flag_JP]: /wiki/shared/flag/JP.gif
+[flag_ID]: /wiki/shared/flag/ID.gif
+[flag_HN]: /wiki/shared/flag/HN.gif
+[flag_AU]: /wiki/shared/flag/AU.gif
+[flag_FR]: /wiki/shared/flag/FR.gif
+[flag_BR]: /wiki/shared/flag/BR.gif
+[flag_CO]: /wiki/shared/flag/CO.gif
+[flag_TW]: /wiki/shared/flag/TW.gif
+[flag_HK]: /wiki/shared/flag/HK.gif
+[flag_RU]: /wiki/shared/flag/RU.gif
+
 [GCrown]: /wiki/shared/GCrown.png
 [SCrown]: /wiki/shared/SCrown.png
