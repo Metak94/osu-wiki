@@ -71,7 +71,7 @@ The osu! Cup Master 3: osu!catch edition Tournament is run by various osu! commu
 |  | Smukur es colombiano | ![][flag_CO] [Titan-](https://osu.ppy.sh/users/7855767), ![][flag_CO] [Zyonii](https://osu.ppy.sh/users/9519851), ![][flag_MX] [Cxlucha](https://osu.ppy.sh/users/5063961), ![][flag_PE] [-Boltic-](https://osu.ppy.sh/users/5297904) |
 |  | IZAYOI XXX is the captain | ![][flag_TW] [Timewasdealsea](https://osu.ppy.sh/users/8682905), ![][flag_TW] [IZAYOI XXX](https://osu.ppy.sh/users/3538446), ![][flag_TW] [Psc_IceRain](https://osu.ppy.sh/users/3359485), ![][flag_TW] [qq11123334](https://osu.ppy.sh/users/11807319) |
 |  | QT DOKU | ![][flag_JP] [LieLoom](https://osu.ppy.sh/users/4892798), ![][flag_HK] [Novoids](https://osu.ppy.sh/users/5163523), ![][flag_ID] [LeWind](https://osu.ppy.sh/users/9718235), ![][flag_RU] [Kitsunlvy](https://osu.ppy.sh/users/7055384) |
-|  | :-: | :-- |
+|  | idk lol | ![][flag_US] [Depths](https://osu.ppy.sh/users/3935174), ![][flag_HK] [AutoLs](https://osu.ppy.sh/users/9155988), ![][flag_US] [Secre](https://osu.ppy.sh/users/2306637), ![][flag_US] [diao](https://osu.ppy.sh/users/500696) |
 |  | :-: | :-- |
 |  | :-: | :-- |
 |  | :-: | :-- |
@@ -187,6 +187,7 @@ will be Low Seed, to end the Unseed teams.
 [flag_TW]: /wiki/shared/flag/TW.gif
 [flag_HK]: /wiki/shared/flag/HK.gif
 [flag_RU]: /wiki/shared/flag/RU.gif
+[flag_US]: /wiki/shared/flag/US.gif
 
 [GCrown]: /wiki/shared/GCrown.png
 [SCrown]: /wiki/shared/SCrown.png
