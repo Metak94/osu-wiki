@@ -8,7 +8,7 @@ tags:
 ![logo](/wiki/Tournaments/OCM/2020/images/logo.png)
 
 
-The **osu! Cup Master 3: osu!catch edition** (***OCM3***) is a a two-on-two team based osu!catch tournament hosted by ![][flag_PA] [Rei-](https://osu.ppy.sh/users/2317102) and ![][flag_MX] [daxeroz](https://osu.ppy.sh/users/1170156). It is the 3rd installment of the osu! Cup Master.
+The **osu! Cup Master 3: osu!catch edition** (***OCM3***) is a a two-on-two team based osu!catch tournament hosted by ![][flag_PA] [Jafett](https://osu.ppy.sh/users/2317102) and ![][flag_MX] [daxeroz](https://osu.ppy.sh/users/1170156). It is the 3rd installment of the osu! Cup Master.
 
 ## Tournament Schedule
 
@@ -39,7 +39,7 @@ The osu! Cup Master 3: osu!catch edition Tournament is run by various osu! commu
 
 | Position | Members |
 | :-: | :-- |
-| Host | ![][flag_PA] [Rei-](https://osu.ppy.sh/users/2317102), ![][flag_MX] [daxeroz](https://osu.ppy.sh/users/1170156) |
+| Host | ![][flag_PA] [Jafett](https://osu.ppy.sh/users/2317102), ![][flag_MX] [daxeroz](https://osu.ppy.sh/users/1170156) |
 | Manager | ![][flag_CL] [Metak](https://osu.ppy.sh/users/2861255) |
 | Map Selector | ![][flag_MX] [daxeroz](https://osu.ppy.sh/users/1170156), ![][flag_MX] [firu](https://osu.ppy.sh/users/10516547) |
 | Commentator | ![][flag_PE] [-Boltic-](https://osu.ppy.sh/users/5297904), ![][flag_PA] [Rei-](https://osu.ppy.sh/users/2317102) |
