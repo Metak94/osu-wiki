@@ -74,7 +74,7 @@ The osu! Cup Master 3: osu!catch edition Tournament is run by various osu! commu
 |  | idk lol | ![][flag_US] [Depths](https://osu.ppy.sh/users/3935174), ![][flag_HK] [AutoLs](https://osu.ppy.sh/users/9155988), ![][flag_US] [Secre](https://osu.ppy.sh/users/2306637), ![][flag_US] [diao](https://osu.ppy.sh/users/500696) |
 |  | Araganes | ![][flag_CO] [Deley-](https://osu.ppy.sh/users/8291465), ![][flag_CO] [Juansy-](https://osu.ppy.sh/users/12588215), ![][flag_CO] [-The Gosu-](https://osu.ppy.sh/users/7971842), ![][flag_VE] [Hisashi Shimoro](https://osu.ppy.sh/users/6736420) |
 |  | Obama's Bizarre adventures | ![][flag_PL] [AmaZ](https://osu.ppy.sh/users/6097002), ![][flag_PL] [Jakkubon](https://osu.ppy.sh/users/3396013), ![][flag_TW] [Sanami](https://osu.ppy.sh/users/1629471), ![][flag_FI] [forgottentaco](https://osu.ppy.sh/users/6109660) |
-|  | Retired players comeback | ![][flag_PL] [BoberOfDarkness](https://osu.ppy.sh/users/3427748), ![][flag_PL] [Kosmit](https://osu.ppy.sh/users/1749173), ![][flag_PL] [Krzysiek](https://osu.ppy.sh/users/294277), ![][flag_PL] [shizosvenia](https://osu.ppy.sh/users/4600126) |
+|  | Retired players comeback | ![][flag_PL] [BoberOfDarkness](https://osu.ppy.sh/users/3427748), ![][flag_PL] [Kosmit](https://osu.ppy.sh/users/1749173), ![][flag_PL] [Krzysiek](https://osu.ppy.sh/users/294277), ![][flag_PL] [schizosvenia](https://osu.ppy.sh/users/4600126) |
 
 ---
 <!--
