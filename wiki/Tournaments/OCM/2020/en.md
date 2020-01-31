@@ -54,6 +54,7 @@ The osu! Cup Master 3: osu!catch edition Tournament is run by various osu! commu
 - [Discord server](https://discord.gg/Y9MKD8m)
 - [Twitter](https://twitter.com/CupOsu)
 
+---
 
 ## Participants
 
@@ -77,6 +78,7 @@ The osu! Cup Master 3: osu!catch edition Tournament is run by various osu! commu
 |  | Retired players comeback | ![][flag_PL] [BoberOfDarkness](https://osu.ppy.sh/users/3427748), ![][flag_PL] [Kosmit](https://osu.ppy.sh/users/1749173), ![][flag_PL] [Krzysiek](https://osu.ppy.sh/users/294277), ![][flag_PL] [schizosvenia](https://osu.ppy.sh/users/4600126) |
 
 ---
+
 <!--
 ## Podium
 
@@ -90,8 +92,36 @@ This competition has come to an end and resulted in the following podium:
 
 ---
 -->
-
 ## Mappools
+
+### Group Stage
+
+**[Download the map pack here!]()**
+
+- NoMod
+  - [Scop - Keppekishou \(tutuhaha\) \[Dance\]](https://osu.ppy.sh/beatmapsets/70115#fruits/201731)
+  - [Blue Stahli & Nyzzy Nyce - Run The Track \(Sinnoh\) \[Rain\]](https://osu.ppy.sh/beatmapsets/1071229#fruits/2242235)
+  - [Duck Duck Pony - Shinsetsu \(wonjae\) \[wonjac's overdose\]](https://osu.ppy.sh/beatmapsets/951270#fruits/1987735)
+- Hidden
+  - [Katakiri Rekka - Answer \(Jenny\) \[Rejection\]](https://osu.ppy.sh/beatmapsets/51947#fruits/159007)
+  - [Krewella & Nucleya - Good On You \(Mao\) \[Expert\]](https://osu.ppy.sh/beatmapsets/1082851#fruits/2264994)
+  - [Ryu* vs. Sota - Go Beyond!! \(Anto\) \[Nuvolina's Expert\]](https://osu.ppy.sh/beatmapsets/934522#fruits/2023961)
+- HardRock
+  - [RURUTIA - Phronesis \(-Luminate\) \[Platter\]](https://osu.ppy.sh/beatmapsets/965320#fruits/2022514)
+  - [fourfolium - Hosshii no! \(Kisses\) \[117's hard\]](https://osu.ppy.sh/beatmapsets/586877#fruits/1485741)
+  -
+- DoubleTime
+  - [Yellow Zebra - Melody! \(wcx19911123\) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/45450#fruits/142099)
+  - [HyuN feat. Aerial - Exodus \(Niva\) \[Insane\]](https://osu.ppy.sh/beatmapsets/1069611#fruits/2239032)
+  - [yanaginagi - over and over \(TV Size\) \(Jemzuu\) \[Platter\]](https://osu.ppy.sh/beatmapsets/698454#fruits/2228142)
+- FlashLight
+  - [44teru-k - Yami ~ Shoujo no Yume , Kyomu no Sekai ~ \(AngelHoney\) \[Insane\]](https://osu.ppy.sh/beatmapsets/17827#fruits/63435)
+  - [Arm Cannon - Borrow mega nuke (eureka borg worm) \(awp\) \[Exeter Modem\]](https://osu.ppy.sh/beatmapsets/5317#fruits/26372)
+- DTB
+  - [Sakurano Omura (CV: Emiri Kato) - Kirai ippai x Suki ippai \(Reanter\) \[OPPAI DAME!!!\]](https://osu.ppy.sh/beatmapsets/368991#fruits/808856)
+  - [ETIA. - Knock it Off \(Maddy\) \[Hyper\]](https://osu.ppy.sh/beatmapsets/89582#fruits/247033)
+- Tiebreaker
+  - **[Underveil allstars - Underveil is real!!!.. and we are under.. \(Chara\) \[*Together as one, we stay determined!\]](https://osu.ppy.sh/beatmapsets/636920#fruits/1351241)**
 
 ## Ruleset
 
