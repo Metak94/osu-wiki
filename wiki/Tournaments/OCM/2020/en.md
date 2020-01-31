@@ -60,7 +60,7 @@ The osu! Cup Master 3: osu!catch edition Tournament is run by various osu! commu
 
 | Team image | Team name | Members |
 | :-: | :-: | :-- |
-|  | Acelga | ![][flag_CL] [eldnl](https://osu.ppy.sh/users/285756), ![][flag_CL] [Aryssiel](https://osu.ppy.sh/users/2389481), ![][flag_CL] [NachoL](https://osu.ppy.sh/users/1250096) |
+| <img src="/wiki/Tournaments/OCM/2020/images/Teamimages/acelga.jpg" width="100" > | Acelga | ![][flag_CL] [eldnl](https://osu.ppy.sh/users/285756), ![][flag_CL] [Aryssiel](https://osu.ppy.sh/users/2389481), ![][flag_CL] [NachoL](https://osu.ppy.sh/users/1250096) |
 | <img src="/wiki/Tournaments/OCM/2020/images/Teamimages/mybloodtrailsoplica.png" width="100" > | My blood trail soplica | ![][flag_PL] [Phob](https://osu.ppy.sh/users/6069462), ![][flag_Pl] [Mniam](https://osu.ppy.sh/users/6050530), ![][flag_PL] [Pjetras88](https://osu.ppy.sh/users/10310843), ![][flag_PL] [Verti](https://osu.ppy.sh/users/10674528) |
 | <img src="/wiki/Tournaments/OCM/2020/images/Teamimages/loschoripondios.jpg" width="100" > | Los Choripondios | ![][flag_CL] [alluya69](https://osu.ppy.sh/users/2212951), ![][flag_CL] [-Kotaru-](https://osu.ppy.sh/users/9131357), ![][flag_CL] [-Naroh](https://osu.ppy.sh/users/9087831) |
 |  | 115 | ![][flag_ES] [Dogma](https://osu.ppy.sh/users/4175333), ![][flag_DE] [bro gamer NR1](https://osu.ppy.sh/users/9573527), ![][flag_JP] [noob desu](https://osu.ppy.sh/users/4808804), ![][flag_US] [ChewyTarTar](https://osu.ppy.sh/users/13978275/fruits) |
@@ -75,7 +75,7 @@ The osu! Cup Master 3: osu!catch edition Tournament is run by various osu! commu
 | <img src="/wiki/Tournaments/OCM/2020/images/Teamimages/idk2.jpg" width="100" > | idk lol | ![][flag_US] [Depths](https://osu.ppy.sh/users/3935174), ![][flag_HK] [AutoLs](https://osu.ppy.sh/users/9155988), ![][flag_US] [Secre](https://osu.ppy.sh/users/2306637), ![][flag_US] [diao](https://osu.ppy.sh/users/500696) |
 |  | Araganes | ![][flag_CO] [Deley-](https://osu.ppy.sh/users/8291465), ![][flag_CO] [Juansy-](https://osu.ppy.sh/users/12588215), ![][flag_CO] [-The Gosu-](https://osu.ppy.sh/users/7971842), ![][flag_VE] [Hisashi Shimoro](https://osu.ppy.sh/users/6736420) |
 | <img src="/wiki/Tournaments/OCM/2020/images/Teamimages/Obama.png" width="100" > | Obama's Bizarre adventures | ![][flag_PL] [AmaZ](https://osu.ppy.sh/users/6097002), ![][flag_PL] [Jakkubon](https://osu.ppy.sh/users/3396013), ![][flag_TW] [Sanami](https://osu.ppy.sh/users/1629471), ![][flag_FI] [forgottentaco](https://osu.ppy.sh/users/6109660) |
-|  | Retired players comeback | ![][flag_PL] [BoberOfDarkness](https://osu.ppy.sh/users/3427748), ![][flag_PL] [Kosmit](https://osu.ppy.sh/users/1749173), ![][flag_PL] [Krzysiek](https://osu.ppy.sh/users/294277), ![][flag_PL] [schizosvenia](https://osu.ppy.sh/users/4600126) |
+| <img src="/wiki/Tournaments/OCM/2020/images/Teamimages/retired.jpg" width="100" > | Retired players comeback | ![][flag_PL] [BoberOfDarkness](https://osu.ppy.sh/users/3427748), ![][flag_PL] [Kosmit](https://osu.ppy.sh/users/1749173), ![][flag_PL] [Krzysiek](https://osu.ppy.sh/users/294277), ![][flag_PL] [schizosvenia](https://osu.ppy.sh/users/4600126) |
 
 ---
 
