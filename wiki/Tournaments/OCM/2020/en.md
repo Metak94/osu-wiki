@@ -123,6 +123,8 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Underveil allstars - Underveil is real!!!.. and we are under.. \(Chara\) \[*Together as one, we stay determined!\]](https://osu.ppy.sh/beatmapsets/636920#fruits/1351241)**
 
+---
+
 ## Ruleset
 
 ### Tournament Rules
