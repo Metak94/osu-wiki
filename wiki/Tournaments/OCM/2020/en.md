@@ -49,6 +49,10 @@ The osu! Cup Master 3: osu!catch edition Tournament is run by various osu! commu
 | Referee | ![][flag_CL] [Hinoshi](https://osu.ppy.sh/users/9200197), ![][flag_PE] [-Boltic-](https://osu.ppy.sh/users/5297904), ![][flag_AR] [jerem1as](https://osu.ppy.sh/users/6117864), ![][flag_MX] [MILK\_16](https://osu.ppy.sh/users/9137627), ![][flag_UY] [Neimex23](https://osu.ppy.sh/users/7293703), ![][flag_GB] [StartAndSelect](https://osu.ppy.sh/users/8720555/osu), ![][flag_CO] [Deley-](https://osu.ppy.sh/users/8291465) |
 | Designer | ![][flag_MX] [ShadowMerry](https://osu.ppy.sh/users/3104864) |
 | Streamer | ![][flag_MX] [daxeroz](https://osu.ppy.sh/users/1170156), ![][flag_LU] [Gae](https://osu.ppy.sh/users/7787785), ![][flag_ID] [dika312](https://osu.ppy.sh/users/741613) |
+| Commentator | ![][flag_PE] [-Boltic-](https://osu.ppy.sh/users/5297904), ![][flag_PA] [Rei-](https://osu.ppy.sh/users/2317102) |
+| Referee | ![][flag_CL] [Hinoshi](https://osu.ppy.sh/users/9200197), ![][flag_PE] [-Boltic-](https://osu.ppy.sh/users/5297904), ![][flag_AR] [jerem1as](https://osu.ppy.sh/users/6117864), ![][flag_MX] [MILK\_16](https://osu.ppy.sh/users/9137627), ![][flag_UY] [Neimex23](https://osu.ppy.sh/users/7293703), ![][flag_GB] [StartAndSelect](https://osu.ppy.sh/users/8720555/osu), ![][flag_CO] [Deley-](https://osu.ppy.sh/users/8291465) |
+| Designer | ![][flag_MX] [ShadowMerry](https://osu.ppy.sh/users/3104864) |
+| Streamer | ![][flag_MX] [daxeroz](https://osu.ppy.sh/users/1170156), ![][flag_FR] [Gae](https://osu.ppy.sh/users/7787785) |
 
 ## Links
 
@@ -226,6 +230,7 @@ will be Low Seed, to end the Unseed teams.
 [flag_VE]: /wiki/shared/flag/VE.gif
 [flag_FI]: /wiki/shared/flag/FI.gif
 [flag_LU]: /wiki/shared/flag/LU.gif
-
+[flag_CO]: /wiki/shared/flag/CO.gif
+[flag_FR]: /wiki/shared/flag/FR.gif
 [GCrown]: /wiki/shared/GCrown.png
 [SCrown]: /wiki/shared/SCrown.png
