@@ -64,9 +64,9 @@ The osu! Cup Master 3: osu!catch edition Tournament is run by various osu! commu
 | <img src="/wiki/Tournaments/OCM/2020/images/Teamimages/acelga.jpg" width="100" > | Acelga | ![][flag_CL] [eldnl](https://osu.ppy.sh/users/285756), ![][flag_CL] [Aryssiel](https://osu.ppy.sh/users/2389481), ![][flag_CL] [NachoL](https://osu.ppy.sh/users/1250096) |
 | <img src="/wiki/Tournaments/OCM/2020/images/Teamimages/mybloodtrailsoplica.png" width="100" > | My blood trail soplica | ![][flag_PL] [Phob](https://osu.ppy.sh/users/6069462), ![][flag_Pl] [Mniam](https://osu.ppy.sh/users/6050530), ![][flag_PL] [Pjetras88](https://osu.ppy.sh/users/10310843), ![][flag_PL] [Verti](https://osu.ppy.sh/users/10674528) |
 | <img src="/wiki/Tournaments/OCM/2020/images/Teamimages/loschoripondios.jpg" width="100" > | Los Choripondios | ![][flag_CL] [alluya69](https://osu.ppy.sh/users/2212951), ![][flag_CL] [-Kotaru-](https://osu.ppy.sh/users/9131357), ![][flag_CL] [-Naroh](https://osu.ppy.sh/users/9087831) |
-|  | 115 | ![][flag_ES] [Dogma](https://osu.ppy.sh/users/4175333), ![][flag_DE] [bro gamer NR1](https://osu.ppy.sh/users/9573527), ![][flag_JP] [noob desu](https://osu.ppy.sh/users/4808804), ![][flag_US] [ChewyTarTar](https://osu.ppy.sh/users/13978275/fruits) |
+| <img src="/wiki/Tournaments/OCM/2020/images/Teamimages/115.jpg" width="100" > | 115 | ![][flag_ES] [Dogma](https://osu.ppy.sh/users/4175333), ![][flag_DE] [bro gamer NR1](https://osu.ppy.sh/users/9573527), ![][flag_JP] [noob desu](https://osu.ppy.sh/users/4808804), ![][flag_US] [ChewyTarTar](https://osu.ppy.sh/users/13978275/fruits) |
 | <img src="/wiki/Tournaments/OCM/2020/images/Teamimages/Bjirrsquad.jpeg" width="100" > | Bjirr Squad | ![][flag_ID] [Honkenway](https://osu.ppy.sh/users/11582543), ![][flag_ID] [Chiya--](https://osu.ppy.sh/users/7934854), ![][flag_ID] [ZYX_GAME](https://osu.ppy.sh/users/3770612), ![][flag_ID] [Zephirine](https://osu.ppy.sh/users/9629190) |
-|  | Iaffi | ![][flag_CL] [Lyna Paulina](https://osu.ppy.sh/users/10434422), ![][flag_HN] [- AnGel](https://osu.ppy.sh/users/12931440), ![][flag_HN] [[-Cris-]](https://osu.ppy.sh/users/14599677) |
+| <img src="/wiki/Tournaments/OCM/2020/images/Teamimages/iaffi.jpg" width="100" > | Iaffi | ![][flag_CL] [Lyna Paulina](https://osu.ppy.sh/users/10434422), ![][flag_HN] [- AnGel](https://osu.ppy.sh/users/12931440), ![][flag_HN] [[-Cris-]](https://osu.ppy.sh/users/14599677) |
 | <img src="/wiki/Tournaments/OCM/2020/images/Teamimages/wwwww.png" width="100" > | wwwww | ![][flag_AR] [-Story-](https://osu.ppy.sh/users/8172283), ![][flag_AU] [Beerus](https://osu.ppy.sh/users/5529199), ![][flag_GB] [Matt_H](https://osu.ppy.sh/users/4067115) |
 | <img src="/wiki/Tournaments/OCM/2020/images/Teamimages/KRNS.png" width="100" > | KNRS | ![][flag_FR] [Noctalium](https://osu.ppy.sh/users/6488167), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Shyeart](https://osu.ppy.sh/users/2022144), ![][flag_FR] [Rougoku](https://osu.ppy.sh/users/6900166)|
 | <img src="/wiki/Tournaments/OCM/2020/images/Teamimages/Futalovers.png" width="100" > | Futa Lovers | ![][flag_BR] [BeyondArea](https://osu.ppy.sh/users/8642224), ![][flag_BR] [S a y u n](https://osu.ppy.sh/users/3770603), ![][flag_BR] [Endou-](https://osu.ppy.sh/users/10792711), ![][flag_BR] [Hanik](https://osu.ppy.sh/users/4533507) |
@@ -97,7 +97,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Group Stage
 
-**[Download the map pack here!]()**
+**[Download the map pack here!](https://mega.nz/#!bJADnIbL!QuXa-kSOKKIxCC8LcQNxOa5rEtGv4Fm8GvD1WqkISWo)**
 
 - NoMod
   - [Scop - Keppekishou \(tutuhaha\) \[Dance\]](https://osu.ppy.sh/beatmapsets/70115#fruits/201731)
@@ -110,7 +110,7 @@ This competition has come to an end and resulted in the following podium:
 - HardRock
   - [RURUTIA - Phronesis \(-Luminate\) \[Platter\]](https://osu.ppy.sh/beatmapsets/965320#fruits/2022514)
   - [fourfolium - Hosshii no! \(Kisses\) \[117's hard\]](https://osu.ppy.sh/beatmapsets/586877#fruits/1485741)
-  -
+  - [guna with team kyukkyu - subconsciousness \(Snow Note\) \[Hyper\]](https://osu.ppy.sh/beatmapsets/151945#fruits/445207)
 - DoubleTime
   - [Yellow Zebra - Melody! \(wcx19911123\) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/45450#fruits/142099)
   - [HyuN feat. Aerial - Exodus \(Niva\) \[Insane\]](https://osu.ppy.sh/beatmapsets/1069611#fruits/2239032)
